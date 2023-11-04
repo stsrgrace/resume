@@ -1,0 +1,30 @@
+.start {
+  display: start;
+ 
+  width: 369px;
+  border-radius: 50%;
+}
+
+div.polaroid {
+  width: 30%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.detail {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+h3{font-family: 'EB Garamond', serif;}
+
+p{
+font-family: 'Onest', sans-serif;
+}
+
+h1{
+font-family: 'Onest', sans-serif;
+}
+
+h5{font-family: 'EB Garamond', serif;}
